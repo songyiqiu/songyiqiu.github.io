@@ -341,11 +341,11 @@ function shareText(score) {
         return '倒计时多了' + ((deviation_time / 1000) - 20).toFixed(2) + "s";
     }
     SubmitResults();
-    if (score <= 49) return '诶，怎么都不喝啊？';
-    if (score <= 99) return '这喝汤多是一件美逝啊！';
-    if (score <= 149) return '不咸不淡，味道真是好寄了！';
-    if (score <= 199) return '他奶奶滴，为什么不喝！';
-    return '不喝？不喝也别想活着！';
+    if (score <= 49) return 'pog!!!!!';
+    if (score <= 99) return 'hope in the dark';
+    if (score <= 149) return 'throughout night party night~~~~';
+    if (score <= 199) return 'yeeeeee!!!!!1';
+    return 'thank you~~';
 }
 
 function toStr(obj) {
