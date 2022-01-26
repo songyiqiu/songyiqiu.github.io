@@ -7,7 +7,8 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉催逝员（修改于EatKano）
+小游戏：吃掉催逝员（修改于EatKano）又修改于await591吃掉催逝员https://await591.github.io/EatCSY/index.html
+
 
 ## 原项目
 
